@@ -1,4 +1,4 @@
-package com.musahundur.instagramclonejava;
+package com.musahundur.instagramclonejava.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,8 +14,6 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.musahundur.instagramclonejava.databinding.ActivityMainBinding;
-
-import java.util.zip.Inflater;
 
 public class MainActivity extends AppCompatActivity {
 
